@@ -25,9 +25,3 @@ def zero_rows_columns(matrix):
                 matrix[i][j] = 0
 
     return matrix
-
-
-def rotate_counter_clockwise(matrix):
-    """Rotate a matrix 90* counter clockwise."""
-
-
